@@ -6,6 +6,7 @@ public static void main(String[] args) {
       } 
     else{  
         System.out.print("You cannot vote");  
-    }  
+    } 
+ System.out.print("new commit");
 }  
 }  
